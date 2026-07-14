@@ -72,8 +72,7 @@ Vous êtes étudiant, développeur, partenaire ou investisseur ? Il existe plusi
 | **Étudiant** | Postulez à notre centre de formation ou contribuez aux projets pédagogiques. |
 | **Développeur** | Proposez des Pull Requests sur nos dépôts open-source ou rejoignez le Labo. |
 | **Partenaire** | Contactez-nous pour des collaborations institutionnelles ou technologiques. |
-| **Investisseur** | Consultez notre [`Feuille de Route Stratégique`](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-strategic-roadmap) (Série A). |
-
+| **Investisseur** | Consultez notre [`Feuille de Route Stratégique (Série A - 50M USD)`](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-strategic-roadmap). |
 ---
 
 ## 🔗 Liens Officiels & Ressources

@@ -61,7 +61,23 @@ Notre organisation repose sur des principes non négociables, incarnés par notr
 
 📜 **Charte Éthique :** Consultez notre document de référence dans le dossier [`00_Gardiens_Ethiques`](./00_Gardiens_Ethiques).
 
+
 ---
+## 🕊️ Application du Wasatiyyah (Juste Milieu) dans le Code
+
+Incha Allah wa bi Hawlli Allah, notre approche technique incarne le principe du juste milieu. Chaque ligne de code écrite dans cet écosystème respecte l'équilibre suivant :
+
+1.  **Performance & Sobriété** : Nous optimisons pour la vitesse sans gaspiller les ressources énergétiques (Green Tech).
+2.  **Sécurité & Accessibilité** : Nous protégeons les données sans rendre le service inutilisable ou élitiste.
+3.  **Innovation & Stabilité** : Nous adoptons les nouvelles technologies après validation, sans prendre de risques inconsidérés pour les utilisateurs.
+4.  **Transparence & Discrétion** : Le code est ouvert et auditable, tout en protégeant strictement la vie privée des individus.
+
+> *"Et ainsi, Nous avons fait de vous une communauté de juste milieu..."* (Coran, 2:143)
+
+---
+
+### 🤝 Rejoindre l'Écosystème
+... (la suite de votre texte actuel)
 
 ## 🤝 Rejoindre l'Écosystème
 

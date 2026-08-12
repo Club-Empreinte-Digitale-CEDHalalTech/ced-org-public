@@ -33,10 +33,12 @@ graph TD
     style LB fill:#27ae60,stroke:#333,color:#fff
     style Core fill:#2980b9,stroke:#333,color:#fff
     style Audit fill:#e67e22,stroke:#333,color:#fff
-Principes de Conception (Wasatiyyah Technique)
+```
+## Principes de Conception (Wasatiyyah Technique)
+
 Notre architecture applique le principe du juste milieu à chaque niveau :
 
-Sobriété : Auto-scaling basé sur la charge réelle pour minimiser l'empreinte carbone.
-Résilience : Réplication des données sur deux zones de disponibilité distinctes en Suisse.
-Souveraineté : Aucun flux de données ne sort du territoire suisse (LPD/RGPD).
-Auditabilité : Chaque transaction financière déclenche une vérification synchrone des règles de Fiqh.
+- **Sobriété** : Auto-scaling basé sur la charge réelle pour minimiser l'empreinte carbone.
+- **Résilience** : Réplication des données sur deux zones de disponibilité distinctes en Suisse.
+- **Souveraineté** : Aucun flux de données ne sort du territoire suisse (LPD/RGPD).
+- **Auditabilité** : Chaque transaction financière déclenche une vérification synchrone des règles de Fiqh.

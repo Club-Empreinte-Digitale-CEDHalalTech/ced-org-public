@@ -1,5 +1,9 @@
 # Club Empreinte Digitale | CED HalalTech™
-### 🇨🇭 Écosystème Numérique Souverain, Éthique & Inclusif
+### 🇨🇭 Écosystème Numérique Souverain, Éthique & Inclusif                                         
+![GitHub Release](https://img.shields.io/github/v/release/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?label=Version%20Publique&color=27ae60)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?label=Dernière%20Mise%20à%20jour&color=2980b9)
+![GitHub License](https://img.shields.io/github/license/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?label=Licence&color=orange)
+![GitHub stars](https://img.shields.io/github/stars/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?style=social)
 
 ![Bannière CED](https://via.placeholder.com/1200x300.png?text=CED+HalalTech+-+Innovation+et+Ethique)  
 *(Note: Remplacez ce lien par l'URL de votre bannière officielle une fois uploadée)*

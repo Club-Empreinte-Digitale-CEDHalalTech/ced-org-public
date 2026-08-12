@@ -40,3 +40,4 @@ Sobriété : Auto-scaling basé sur la charge réelle pour minimiser l'empreinte
 Résilience : Réplication des données sur deux zones de disponibilité distinctes en Suisse.
 Souveraineté : Aucun flux de données ne sort du territoire suisse (LPD/RGPD).
 Auditabilité : Chaque transaction financière déclenche une vérification synchrone des règles de Fiqh.
+

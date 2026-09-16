@@ -6,7 +6,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?style=social)
 
 ![Bannière CED](https://via.placeholder.com/1200x300.png?text=CED+HalalTech+-+Innovation+et+Ethique)  
-*(Note: Remplacez ce lien par l'URL de votre bannière officielle une fois uploadée)*
+🔗 Liens Officiels" :
+📈 Roadmap Investisseurs (Série A) : Club-Empreinte-Digitale-CEDHalalTech/ced-strategic-roadmap (Accès sur demande / Privé)
 
 ---
 

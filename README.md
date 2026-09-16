@@ -94,18 +94,69 @@ Vous êtes étudiant, développeur, partenaire ou investisseur ? Il existe plusi
 | **Partenaire** | Contactez-nous pour des collaborations institutionnelles ou technologiques. |
 | **Investisseur** | Consultez notre [`Feuille de Route Stratégique (Série A - 50M USD)`](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-strategic-roadmap). |
 ---
-
 ## 🔗 Liens Officiels & Ressources
 
-- 🌐 **Site Web :** [club-empreinte-digitale.org](https://club-empreinte-digitale.org)
-- ☁️ **Hébergeur :** [Infomaniak (Suisse)](https://www.infomaniak.com)
-- 🤖 **IA Souveraine :** [EuriaHub-CED](https://github.com/EuriaHub-CED)
-- 💻 **Labo Technique :** [SwissYakoubiDev](https://github.com/SwissYakoubiDev)
-- 🏛️ **Institut :** [YakoubiYamina-Institute](https://github.com/YakoubiYamina-Institute)
+Découvrez nos projets actifs et nos plateformes spécialisées :
+
+| Domaine | Lien | Statut |
+| :--- | :--- | :--- |
+| 🌐 **Site Web Officiel** | [club-empreinte-digitale.org](https://club-empreinte-digitale.org) | 🟢 Public |
+| ☁️ **Infrastructure Cloud** | [Infomaniak (Suisse)](https://www.infomaniak.com) | 🤝 Partenaire |
+| 🤖 **IA Souveraine** | [EuriaHub-CED](https://github.com/EuriaHub-CED) | 🟢 Public |
+| 💻 **Labo Technique (R&D)** | [SwissYakoubiDev](https://github.com/SwissYakoubiDev) | 🔒 Privé (Sur demande) |
+| 🏛️ **Institut de Recherche** | [YakoubiYamina-Institute](https://github.com/YakoubiYamina-Institute) | 🔒 Privé |
+| 📈 **Roadmap Investisseurs** | [ced-strategic-roadmap](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-strategic-roadmap) | 🔒 Privé (Due Diligence) |
+| 🛡️ **Gouvernance & Audits** | [ced-strategic-core](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-strategic-core) | 🔒 Privé (Release v1.0) |
+
+> **Note :** Ce dépôt `ced-org-public` sert de vitrine générale. Pour accéder aux projets privés (code source complet, données étudiants, stratégie financière), veuillez contacter l'administration ou devenir membre certifié de l'organisation.
 
 ---
 
-> **Note :** Ce dépôt `ced-org-public` sert de vitrine. Pour accéder aux projets privés (code source complet, données étudiants, stratégie financière), veuillez contacter l'administration ou devenir membre certifié de l'organisation.
+## 🏦 Espace Investisseurs & Due Diligence
 
-**Club Empreinte Digitale | CED HalalTech™**  
-*Genève, Suisse | Hébergé avec ❤️ et ☀️ par Infomaniak*
+Vous êtes un partenaire financier, un fonds d'investissement ou une institution intéressée par notre levée de fonds **Série A (50M USD)** ?
+
+CED HalalTech™ se distingue par une approche transparente et fondée sur la preuve (*Proof-of-Work*). Contrairement aux concepts sur papier, notre infrastructure est déjà opérationnelle.
+
+### 📂 Accédez à notre Data Room Technique
+
+Pour votre Due Diligence, nous avons structuré deux dépôts privés dédiés aux investisseurs accrédités :
+
+1.  **📈 Vision & Stratégie Financière** ([`ced-strategic-roadmap`](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-strategic-roadmap))
+    *   Feuille de route détaillée (Suisse, Golfe, International).
+    *   Modèle économique, projection de revenus et utilisation des fonds.
+    *   Gouvernance et structure actionnariale.
+
+2.  **🛡️ Preuves Techniques & Conformité** ([`ced-strategic-core`](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-strategic-core))
+    *   **Release v1.0-HELVELTIZED** : Architecture validée, audits de sécurité (LPD/ISO).
+    *   Scripts de déploiement automatisés et souverains.
+    *   Charte éthique et rapports de conformité (AAOIFI).
+
+### 🚀 Comment procéder ?
+
+1.  **Prise de contact :** Écrivez à **direction@ced-halaltech.ch** en précisant votre structure et votre intérêt.
+2.  **Confidentialité :** Signature d'un accord de non-divulgation (NDA) standard.
+3.  **Accès :** Invitation immédiate en tant que collaborateur externe sur les dépôts privés mentionnés ci-dessus.
+
+> *"La confiance (Amanah) se construit par la transparence et la preuve."*
+> Nous vous accueillons avec plaisir pour explorer comment CED HalalTech™ peut s'inscrire dans votre stratégie d'investissement à impact.
+
+---
+
+## 🤲 Conclusion & Niyyah
+
+Club Empreinte Digitale | CED HalalTech™ est plus qu'une organisation : c'est un mouvement pour une technologie éthique, souveraine et inclusive.
+
+> "Et ainsi, Nous avons fait de vous une communauté de juste milieu..." (Coran, 2:143)
+
+Chaque ligne de code, chaque projet éducatif et chaque décision financière est guidée par cette intention (*Niyyah*) : servir l'humain, respecter son Créateur et préserver notre indépendance.
+
+**Qu'Allah mette la Barakah dans chaque collaboration, chaque investissement et chaque utilisateur de cet écosystème.**
+
+---
+
+**📍 Siège & Hébergement :** Genève, Suisse | Hébergé avec ❤️ et ☀️ par **Infomaniak**
+**📧 Contact Général :** contact@club-empreinte-digitale.org
+**📧 Direction & Investisseurs :** direction@ced-halaltech.ch
+
+© 2024-2026 CED HalalTech™. Tous droits réservés.
